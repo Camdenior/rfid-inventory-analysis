@@ -1,0 +1,6 @@
+location,read_success,signal_strength,event_id
+Zone_A,0.853,-64.95,5950
+Zone_B,0.849,-64.739,5810
+Zone_C,0.845,-65.086,6517
+Zone_D,0.859,-64.402,5187
+Zone_E,0.857,-64.434,5726
